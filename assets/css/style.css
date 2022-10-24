@@ -1,0 +1,157 @@
+/***************Universal Selectors***************/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/***************Element Selectors***************/
+body {
+    background-color: #d9dcd6;
+}
+
+h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Header section*/
+/* Changed the .header class to header element */
+header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+/* Footer section */
+/* Replaced .footer class with footer element */
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+/***************Classes Selectors***************/
+/* class used to different color od SEO in the compay name used in Header portion */
+.seo {
+    color: #d9dcd6;
+}
+
+/* class for defining the big image section*/
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+    
+}
+/* classesf or image positioning throught the page */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* class for displaying 3 main service sections of the page */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/* class for displaying services - we will use one class for all 3 instead of 3 similar classes
+.services-display replaced search-engine-optimization, line-reputation-management, social-media-marketing */
+.services-display {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.services-display img {
+    max-height: 200px;
+}
+
+
+
+/* class for displaying benefits in side panel */
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+/* Using one classto represent text and images in benfits section.  
+Replaced benefit-lead, benefit-brand, benefit-cost with benefits-dislpay */
+
+.benefits-display {
+    margin-bottom: 32px;
+    color: #ffffff;
+    text-align: center; /*added text-alligh to center the text*/
+}
+
+.benefits-display img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+
+
+
