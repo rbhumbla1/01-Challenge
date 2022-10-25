@@ -9,7 +9,7 @@ This project contains files for the Challenge which were created new with starte
   * Application's links all function correctly.
     * In index.html, added id to the section containing SEO description so that SEO link in navigation bar works
     * Other 2 links were working 
-    * Changed the title to Horiseon
+    * Changed the title to Horiseon Wesite for 01-Challenge
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
     * Index.html: Changed <div> to <header>, <footer>, <nav> or <section> as required
