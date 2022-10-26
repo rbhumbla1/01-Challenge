@@ -9,18 +9,18 @@ This project contains files for the Challenge which were created new with starte
   * Application's links all function correctly.
     * In index.html, added id to the section containing SEO description so that SEO link in navigation bar works
     * Other 2 links were working 
-    * Changed the title to Horiseon Website for 01-Challenge
+    * Changed the title to "Horiseon Website for 01-Challenge"
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
-    * Index.html: Changed <div> to <header>, <footer>, <nav> or <section> as required
+    * Index.html: Changed div element to header, footer, nav or section as needed.
     * Index.html: added alternate text to all images
-    *Style.css: Removed similar classes with one class to avoid repitition.  For example 
+    * Style.css: Removed similar classes with one class to avoid repitition.  For example 
         1. .services-display replaced search-engine-optimization, line-reputation-management, social-media-marketing
         2. Replaced benefit-lead, benefit-brand, benefit-cost with benefits-dislpay
     * Style.css - removed .header & .footer class and used element selectors herader& footer instead
 
   * Application's CSS file is properly commented.
-    *Added comments
+    * Added comments
 
 
 ## Usage
