@@ -1,4 +1,4 @@
-# 01-Challenge
+# Accessibility-Standards
 Repository for Module 1 Challenge for Coding Bootcamp where codebase follows accessibility standards.
 ## Description
 This project contains files for the Challenge which were created new with starter code provided and has the following code improvements:
@@ -24,7 +24,7 @@ This project contains files for the Challenge which were created new with starte
 
 
 ## Usage
-The landing page is accessed by the URL: https://rbhumbla1.github.io/01-Challenge/
+The landing page is accessed by the URL: https://rbhumbla1.github.io/Accessibility-Standards/
 
 ## Credits
 
